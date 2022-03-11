@@ -1,0 +1,2 @@
+# Prime-Analyzer
+We are asking you to develop a small standalone application to assess your skills and proficiency in developing software applications. It is expected that whatever you submit is your own code. You will be rated on comments embedded in the code or any other documentation, code cleanliness, algorithm efficiency, and stability. Please include a simple document explain your development process or approach. For this exercise you can use either Python, C# or Java. 
